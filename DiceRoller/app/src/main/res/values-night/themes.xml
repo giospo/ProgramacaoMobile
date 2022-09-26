@@ -6,13 +6,13 @@
         <item name="colorPrimaryVariant">@color/primaryLightColor</item>
         <item name="colorOnPrimary">@color/primaryTextColor</item>
         <!-- Secondary brand color. -->
-        <item name="colorSecondary">@color/secondaryDarkColor</item>
+        <item name="colorSecondary">@color/secondaryColor</item>
         <item name="colorSecondaryVariant">@color/secondaryLightColor</item>
         <item name="colorOnSecondary">@color/secondaryTextColor</item>
         <!-- Status bar color. -->
         <item name="android:statusBarColor">?attr/colorPrimary</item>
         <item name="colorSurface">?attr/colorPrimary</item>
-        <item name="colorOnSurface">?attr/colorPrimaryDark</item>
+        <item name="colorOnSurface">?attr/colorOnPrimary</item>
         <!-- Customize your theme here. -->
     </style>
 </resources>
