@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words" >
+    <item>ASP.net</item>
+    <item>Argus</item>
+    <item>Atari BASIC</item>
+    <item>BASIC</item>
+    <item>Blue</item>
+    <item>Boomerang</item>
+    <item>Clojure</item>
+    <item>Colony Framework</item>
+    <item>Delphi</item>
+    <item>Dialect</item>
+    <item>DuAL</item>
+    <item>ENIAC Short Code</item>
+    <item>EarSketch</item>
+    <item>F#</item>
+    <item>F-Script</item>
+    <item>GNU Guile</item>
+    <item>Google Apps Script</item>
+    <item>HAL/S</item>
+    <item>HPCC</item>
+    <item>IBM Query Management Facility</item>
+    <item>IBM RPG II</item>
+    <item>JScript .NET</item>
+    <item>JSONiq</item>
+    <item>Kawa</item>
+    <item>Kotlin</item>
+    <item>Lisaac</item>
+    <item>LiveScript</item>
+    <item>MLAB</item>
+    <item>NIL</item>
+    <item>NPL</item>
+    <item>Object-PLSQL</item>
+    <item>Objective-C</item>
+    <item>PHP</item>
+    <item>Qalb</item>
+    <item>RCML</item>
+    <item>SQL</item>
+    <item>TypeScript</item>
+    <item>Uniface</item>
+    <item>VSXu</item>
+    <item>WebGL</item>
+    <item>Xtend</item>
+    <item>Yellow</item>
+    <item>Zig</item>
+ </string-array>
+</resources>

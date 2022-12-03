@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1"> Você deve esperar grandes coisas de você mesmo antes de poder faze-las </string>
+    <string name="affirmation2"> Dificuldades reais podem ser superadas; apenas as imaginárias são insuperáveis. </string>
+    <string name="affirmation3"> Não é possível convencer um crente de coisa alguma, pois suas crenças não se baseiam em evidências; baseiam-se numa profunda necessidade de acreditar. </string>
+    <string name="affirmation4"> Pequenas mentes são domadas e subjugadas pelo infortúnio; mas grandes mentes se erguem acima dela. </string>
+    <string name="affirmation5"> A disciplina é a mãe do êxito. </string>
+    <string name="affirmation6"> Eu descobri que quanto mais eu trabalho, mais sorte eu pareço ter </string>
+    <string name="affirmation7"> É possível amar e não ser feliz, é possível ser feliz e não amar, mas amar e simultaneamente ser feliz, isso seria milagre. </string>
+    <string name="affirmation8"> Nenhuma obra-prima foi criada por um artista preguiçoso. </string>
+    <string name="affirmation9"> Só adie para amanhã o que você esta disposto a morrer tendo deixado desfeito. </string>
+    <string name="affirmation10"> As pessoas não carecem de força, carecem de determinação. </string>
+</resources>
