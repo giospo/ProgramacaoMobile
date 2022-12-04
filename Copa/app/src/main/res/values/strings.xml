@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Copa</string>
+    <string name="escalacao">VER ESCALAÇÃO</string>
+    <string name="nome_pais">Arábia Saudita</string>
+    <string name="jogo">Grupo C - 22/11/2022</string>
+    <string name="jogo1">Grupo C - 26/11/2022</string>
+    <string name="jogo2">Grupo C - 30/11/2022</string>
+    <string name="placar_jogo">2 x 1</string>
+    <string name="placar_jogo1">0 x 2</string>
+    <string name="placar_jogo2">1 x 2</string>
+    <string name="arabia_saudita">arábia Saudita</string>
+
+    <string name="detail_prefix" />
+    <string name="look_up_copa" />
+
+    <string name="treinador">Hervé Renard</string>
+    <string name="jogador1">Mohammed Al-Owais</string>
+    <string name="jogador2">Mohamed Kanno</string>
+    <string name="jogador3">Salman Al-Faraj</string>
+    <string name="jogador4">Nawaf Al Abed</string>
+    <string name="jogador5">Abdulelah Al-Malki</string>
+    <string name="jogador6">Al-Bulaihi</string>
+    <string name="jogador7">Firas Al-Buraikan</string>
+    <string name="jogador8">Saleh Al-Shehri</string>
+    <string name="jogador9">Hattan Bahebri</string>
+    <string name="jogador10">Salem Al-Dawsari</string>
+    <string name="jogador11">Mohammed Al-Breik</string>
+    <string name="jogador12">Abdullah Otayf</string>
+</resources>
